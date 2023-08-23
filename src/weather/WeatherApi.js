@@ -215,8 +215,7 @@ const WeatherApi = () => {
 
 
                
-{/* 
-                    echo "# WEATHER-APP" >> README.md
+                    {/* echo "# WEATHER-APP" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
